@@ -1,0 +1,15 @@
+
+.navbar{
+  background-color: black;
+  color: red;
+	font-family: roboto;
+  display: flex;
+  justify-content: space-between;
+
+}
+.item {
+  background-color: black;
+  padding: 14px 25px;
+}
+
+ 
